@@ -33,4 +33,4 @@ Hi, i'm Jinhee, a passionate self-taught iOS developer from Korea.
 
 ### 🍀 Contact  
 - <parkjh6275@naver.com>
-- [My Blog](https://velog.io/@jh53)
+<!-- - [My Blog](https://velog.io/@jh53) -->
