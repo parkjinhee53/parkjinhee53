@@ -31,6 +31,7 @@ Hi, i'm Jinhee, a passionate self-taught iOS developer from Korea.
 <!-- ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haeunkim0807) -->
 </div>
 
+<!--
 ### 🍀 Contact  
-<!-- - <parkjh6275@naver.com> --> 
-- [My Blog](https://velog.io/@jh53)
+- <parkjh6275@naver.com> 
+- [My Blog](https://velog.io/@jh53) -->
